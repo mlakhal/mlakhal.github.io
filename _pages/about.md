@@ -18,3 +18,5 @@ social: true # includes social icons at the bottom of the page
 
 Mohamed Ilyes Lakhal is a Research Fellow in Computer Vision and Deep Learning working with Prof. [Richard Bowden](https://scholar.google.co.uk/citations?user=mvvgDvcAAAAJ&hl=en) in the Cognitive Vision Lab, at the [University Of Surrey](https://www.surrey.ac.uk). He holds a PhD in computer science from [Queen Mary University of London](https://www.qmul.ac.uk) where he was part of the [Centre for Intelligent Sensing (CIS)](https://cis.eecs.qmul.ac.uk). His research interests lie within image and video synthesis with application to multi-view setting, and Sign Language Production.
 
+
+[[Hiring!]]() If you want to work in our lab in the area of image/video generation, please drop me an email.
