@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>CVSSP, University of Surrey,</a>. Office 10 BA 00.
+subtitle: <a href='#'>CVSSP, University of Surrey.</a> Office 10 BA 00.
 
 profile:
   align: right
