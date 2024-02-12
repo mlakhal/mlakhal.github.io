@@ -2,16 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle: <a href='#'>CVSSP, University of Surrey,</a>. Office 10 BA 00.
 
 profile:
   align: right
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Office 10 BA 00, </p>
-    <p>CVSSP, University of Surrey,</p>
-    <p>Guidlford, Surrey, GU27XH</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
